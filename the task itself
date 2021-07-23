@@ -8,7 +8,7 @@ int findfreedigit(std::vector<int> digits) {
         if (digits[i] == 0 && i != 0 && i != 2) return i;
     return -1;
 }
-bool analyzenumber(int num) {
+bool analyzenumber(int64_t num) {
     while (num) {
         if (num % 10 == 2 || num % 10 == 0) return false;
         num /= 10;
