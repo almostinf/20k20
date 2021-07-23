@@ -1,5 +1,5 @@
 # 20k20
-some algorithm task
+some algorithm task / 
 Vladislav noticed that in 2020 there are two whole pairs of the same characters - 2 and 0. Based on this, he hated the numbers 2 and 0, as well as the situation when there are the same numbers in the year. Now Vladislav is waiting for the next year, in which there are no digits 2 and 0, and all the numbers are pairwise different. Calculate in which year it will happen for the first time?
 
 Input data:
